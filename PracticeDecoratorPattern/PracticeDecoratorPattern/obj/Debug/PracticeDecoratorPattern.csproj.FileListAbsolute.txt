@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\bin\Debug\PracticeDecoratorPattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\bin\Debug\PracticeDecoratorPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\bin\Debug\PracticeDecoratorPattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\obj\Debug\PracticeDecoratorPattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\obj\Debug\PracticeDecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\obj\Debug\PracticeDecoratorPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\PracticeDecoratorPattern\PracticeDecoratorPattern\obj\Debug\PracticeDecoratorPattern.pdb
