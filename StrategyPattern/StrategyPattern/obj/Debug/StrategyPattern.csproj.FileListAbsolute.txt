@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
