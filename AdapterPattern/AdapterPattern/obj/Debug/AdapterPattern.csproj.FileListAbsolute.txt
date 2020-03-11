@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
