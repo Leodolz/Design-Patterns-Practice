@@ -1,0 +1,14 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\SampleDatabase.mdf
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\SampleDatabase_log.ldf
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\RepositoryPatternPractice.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\RepositoryPatternPractice.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\RepositoryPatternPractice.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\EntityFramework.dll
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\EntityFramework.xml
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\obj\Debug\RepositoryPatternPractice.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\obj\Debug\RepositoryPatternPractice.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\obj\Debug\RepositoryPatternPractice.csproj.CopyComplete
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\obj\Debug\RepositoryPatternPractice.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\RepositoryPatternPractice\RepositoryPatternPractice\obj\Debug\RepositoryPatternPractice.pdb
