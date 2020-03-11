@@ -25,6 +25,6 @@ namespace RepositoryPatternPractice
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Table> Tables { get; set; }
+        public virtual DbSet<Employee> Employees { get; set; }
     }
 }

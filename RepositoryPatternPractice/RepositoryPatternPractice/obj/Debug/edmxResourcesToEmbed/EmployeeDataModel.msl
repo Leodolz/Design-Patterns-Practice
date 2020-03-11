@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="ModelsStoreContainer" CdmEntityContainer="EmployeeDBContext">
-    <EntitySetMapping Name="Tables">
-      <EntityTypeMapping TypeName="Models.Table">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="Models.Employee">
         <MappingFragment StoreEntitySet="Table">
           <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
           <ScalarProperty Name="Name" ColumnName="Name" />

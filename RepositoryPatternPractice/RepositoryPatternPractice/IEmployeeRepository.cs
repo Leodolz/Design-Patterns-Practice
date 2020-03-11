@@ -8,10 +8,10 @@ namespace RepositoryPatternPractice
 {
     interface IEmployeeRepository
     {
-        IList<Table> GetAll();
-        Table GetById(int EmployeeID);
-        void Insert(Table employee);
-        void Update(Table employee);
+        IList<Employee> GetAll();
+        Employee GetById(int EmployeeID);
+        void Insert(Employee employee);
+        void Update(Employee employee);
         void Delete(int EmployeeID);
         void Save();
     }

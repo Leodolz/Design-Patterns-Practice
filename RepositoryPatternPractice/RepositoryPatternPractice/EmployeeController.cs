@@ -23,11 +23,11 @@ namespace RepositoryPatternPractice
             var model = employeeRepository.GetAll();
             ViewEmployees(model);
         }
-        private void ViewEmployees(IEnumerable<Table> employees)
+        private void ViewEmployees(IEnumerable<Employee> employees)
         {
             Console.WriteLine("ALL EMPLOYEES:");
             Console.WriteLine("---------------------------------------");
-            foreach (Table employee in employees)
+            foreach (Employee employee in employees)
             {
                 ViewEmployee(employee);
             }
@@ -35,7 +35,7 @@ namespace RepositoryPatternPractice
         }
         public void AddEmployee()
         {
-            Table newModel = new Table();
+            Employee newModel = new Employee();
             newModel.Name = "Generic";
             newModel.Gender = "Undefined";
             newModel.Dept = "GN";
@@ -45,7 +45,7 @@ namespace RepositoryPatternPractice
             newModel.EmployeeId = lastId + 1;
             AddEmployee(newModel);
         }
-        private void AddEmployee(Table model)
+        private void AddEmployee(Employee model)
         {
             employeeRepository.Insert(model);
             employeeRepository.Save();
@@ -53,12 +53,12 @@ namespace RepositoryPatternPractice
         }
         public void EditEmployee(int EmployeeId)
         {
-            Table model = employeeRepository.GetById(EmployeeId);
+            Employee model = employeeRepository.GetById(EmployeeId);
             ViewEmployee(model);
             model.Name = model.Name + "MOD";
             EditEmployee(model);
         }
-        private void EditEmployee(Table model)
+        private void EditEmployee(Employee model)
         {
             employeeRepository.Update(model);
             employeeRepository.Save();
@@ -66,13 +66,13 @@ namespace RepositoryPatternPractice
         }
         public void DeleteEmployee(int EmployeeId)
         {
-            Table model = employeeRepository.GetById(EmployeeId);
+            Employee model = employeeRepository.GetById(EmployeeId);
             if (model == null)
                 return;
             ViewEmployee(model);
             Delete(EmployeeId);
         }
-        private void ViewEmployee(Table employee)
+        private void ViewEmployee(Employee employee)
         {
             Console.WriteLine("ID: " + employee.EmployeeId);
             Console.WriteLine("Name: " + employee.Name);

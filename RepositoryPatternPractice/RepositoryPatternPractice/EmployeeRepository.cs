@@ -19,23 +19,23 @@ namespace RepositoryPatternPractice
         }
         public void Delete(int EmployeeID)
         {
-            Table employee = context.Tables.Find(EmployeeID);
-            context.Tables.Remove(employee);
+            Employee employee = context.Employees.Find(EmployeeID);
+            context.Employees.Remove(employee);
         }
 
-        public IList<Table> GetAll()
+        public IList<Employee> GetAll()
         {
-            return context.Tables.ToList();
+            return context.Employees.ToList();
         }
 
-        public Table GetById(int EmployeeID)
+        public Employee GetById(int EmployeeID)
         {
-            return context.Tables.Find(EmployeeID);
+            return context.Employees.Find(EmployeeID);
         }
 
-        public void Insert(Table employee)
+        public void Insert(Employee employee)
         {
-            context.Tables.Add(employee);
+            context.Employees.Add(employee);
         }
 
         public void Save()
@@ -43,7 +43,7 @@ namespace RepositoryPatternPractice
             context.SaveChanges();
         }
 
-        public void Update(Table employee)
+        public void Update(Employee employee)
         {
             context.Entry(employee).State = System.Data.Entity.EntityState.Modified;
         }
