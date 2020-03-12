@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\obj\Debug\AbstractFactoryPatterm.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\obj\Debug\AbstractFactoryPatterm.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\bin\Debug\AbstractFactoryPatterm.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\bin\Debug\AbstractFactoryPatterm.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\bin\Debug\AbstractFactoryPatterm.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\obj\Debug\AbstractFactoryPatterm.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\AbstractFactoryPatterm\AbstractFactoryPatterm\obj\Debug\AbstractFactoryPatterm.pdb
