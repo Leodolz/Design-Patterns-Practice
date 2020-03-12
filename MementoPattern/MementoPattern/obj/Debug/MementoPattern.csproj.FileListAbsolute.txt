@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\bin\Debug\MementoPattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\obj\Debug\MementoPattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\obj\Debug\MementoPattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\obj\Debug\MementoPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MementoPattern\MementoPattern\obj\Debug\MementoPattern.pdb
