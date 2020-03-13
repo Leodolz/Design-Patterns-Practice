@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
