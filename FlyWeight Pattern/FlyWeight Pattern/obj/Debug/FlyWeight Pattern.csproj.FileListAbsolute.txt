@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\bin\Debug\FlyWeight Pattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\bin\Debug\FlyWeight Pattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\bin\Debug\FlyWeight Pattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\obj\Debug\FlyWeight Pattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\obj\Debug\FlyWeight Pattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\obj\Debug\FlyWeight Pattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\FlyWeight Pattern\FlyWeight Pattern\obj\Debug\FlyWeight Pattern.pdb
