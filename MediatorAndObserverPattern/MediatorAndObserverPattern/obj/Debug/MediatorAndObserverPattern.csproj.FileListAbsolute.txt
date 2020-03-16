@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\bin\Debug\MediatorAndObserverPattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\bin\Debug\MediatorAndObserverPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\bin\Debug\MediatorAndObserverPattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\obj\Debug\MediatorAndObserverPattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\obj\Debug\MediatorAndObserverPattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\obj\Debug\MediatorAndObserverPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\MediatorAndObserverPattern\MediatorAndObserverPattern\obj\Debug\MediatorAndObserverPattern.pdb
