@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
