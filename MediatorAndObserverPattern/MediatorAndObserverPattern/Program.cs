@@ -18,6 +18,7 @@ namespace MediatorAndObserverPattern
             broadcastServer.AddModerator("Elizabeth");
             broadcastServer.SendCommonMessage("Hello common members!");
             broadcastServer.SendModeratorMessage("Hello moderator partners!");
+            broadcastServer.SendTo("Hi Miguel!", "Miguel", "COMMON");
             Console.ReadKey();
         }
     }

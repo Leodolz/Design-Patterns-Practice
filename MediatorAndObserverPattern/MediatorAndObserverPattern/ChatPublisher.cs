@@ -18,10 +18,12 @@ namespace MediatorAndObserverPattern
         {
             return chatState;
         }
-        public void SetChatEvent(string newEvent, string subscriberType)
+        public void SetChatEvent(string newEvent, string subscriberType, string privateReciever = null)
         {
             chatState = newEvent;
-            NotifySubscribers(subscriberType);
+            if (privateReciever == null)
+                NotifySubscribers(subscriberType);
+            else NotifyPrivateSubscriber(privateReciever, subscriberType);
         }
         public void AddSubscriber(IEventListener chatSubscriber, string subscriberType)
         {
@@ -43,6 +45,10 @@ namespace MediatorAndObserverPattern
                     Console.WriteLine(eventListener.GetName());
                 }
             }
+        }
+        private void NotifyPrivateSubscriber(string name, string type)
+        {
+            chatSubscribers[type].Find(subscriber => subscriber.GetName().Equals(name)).update();
         }
     }
 }

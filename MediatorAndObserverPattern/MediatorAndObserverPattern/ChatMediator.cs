@@ -29,5 +29,9 @@ namespace MediatorAndObserverPattern
         {
             officialPublisher.SetChatEvent(message, moderatorCode);
         }
+        public void SendTo(string message, string name, string type)
+        {
+            officialPublisher.SetChatEvent(message, type, name);
+        }
     }
 }
