@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\bin\Debug\StatePattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\obj\Debug\StatePattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\StatePattern\StatePattern\obj\Debug\StatePattern.pdb
