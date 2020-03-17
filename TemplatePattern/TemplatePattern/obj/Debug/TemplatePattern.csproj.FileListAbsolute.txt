@@ -1,0 +1,7 @@
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csprojAssemblyReference.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+D:\Leandro\Training\C#Projects\DesignPatternsPractice\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.pdb
